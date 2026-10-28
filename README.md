@@ -2,6 +2,8 @@
 
 Play Snake in your browser: <https://rehanmohammed2609.github.io/snakegame-web/>.
 
+Source code is kept separately in the private `snakegame` repository.
+
 ## Controls
 
 - Move with the **arrow keys** or **WASD**.
